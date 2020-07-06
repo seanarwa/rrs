@@ -10,9 +10,9 @@
 #    docs.serverless.com
 #
 # Happy Coding!
-service: my-first-service
+service: rrs
 # app and org for use with dashboard.serverless.com
-app: my-first-app
+app: untie
 org: seanarwa
 
 # You can pin your service to only deploy with a specific Serverless version
