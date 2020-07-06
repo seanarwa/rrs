@@ -22,6 +22,7 @@ org: seanarwa
 provider:
   name: aws
   runtime: python3.7
+  cfnRole: arn:aws:iam::689668396068:role/Untie-Serverless-Role
 
 outputs:
   custom-output: any-value-here
